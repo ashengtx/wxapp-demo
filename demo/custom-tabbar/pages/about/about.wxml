@@ -1,0 +1,4 @@
+<!--pages/about/about.wxml-->
+<view class='container'>
+<text>this is custom tabbar demo !</text>
+</view>
